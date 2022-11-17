@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="TamañoTexto">22sp</dimen>
+    <dimen name="TamañoTexto_normal">19sp</dimen>
+    <dimen name="TamañoTexto_pq">16sp</dimen>
+
+
+
+</resources>

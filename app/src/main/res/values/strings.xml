@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PruevaExamen</string>
+    <string name="edt_numero_ingresado">Cantidad de entradas</string>
+    <string name="btn_text">Siguiente</string>
+    <string name="Img_view">imagen de balon</string>
+    <string name="Spinner_description">opciones de Zonas</string>
+
+    <string name="TamañoTexto">24sp</string>
+
+
+
+
+    <string name="MainActivity2_TextView0">Eres Socio Del club?</string>
+    <string name="MainActivity2_RadioButton1">Si (descuento 10% total)</string>
+    <string name="MainActivity2_RadioButton2">No (sin descuento)</string>
+    <string name="MainActivity2_TextView1">Zona General:</string>
+    <string name="MainActivity2_TextView2">Cantidad:</string>
+    <string name="MainActivity2_TextView3">Total:</string>
+    <string name="MainActivity2_TextView4">Descuento Socio:</string>
+    <string name="MainActivity2_TextView5">Total a pagar:</string>
+
+
+
+
+
+
+
+
+</resources>
